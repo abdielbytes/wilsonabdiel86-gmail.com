@@ -1,0 +1,8 @@
+{
+  "name": "MultiDisplay Controller",
+  "description": "Allows toggling between the diffrent displays when using multi-display",
+  "uuid": "wilsonabdiel86@gmail.com",
+  "shell-version": [
+    "42"
+  ]
+}
